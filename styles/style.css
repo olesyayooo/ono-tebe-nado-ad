@@ -23,7 +23,7 @@
 
 .header__links-list {
     display: flex;
-    gap: 30px;         
+    gap: 30px;
 }
 
 .header__links-list-item {
@@ -220,19 +220,19 @@
 }
 
 .card_type_film {
-    background-image: url("../ono-tebe-nado-ad/images/card-lot-01.jpg");
+    background-image: url("../images/card-lot-01.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .card_type_book {
-    background-image: url("../ono-tebe-nado-ad/images/card-lot-02.jpg");
+    background-image: url("../images/card-lot-02.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .card_type_picture {
-    background-image: url("../ono-tebe-nado-ad/images/card-lot-03.jpg");
+    background-image: url("../images/card-lot-03.jpg");
     background-size: cover;
     background-position: center;
 }
